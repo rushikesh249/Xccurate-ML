@@ -228,8 +228,8 @@ Empower rapid, accessible tumor screening for all—reducing diagnosis time, aid
 
 **Team INNOVISIONERS**
 - Aditya Chavan — Machine Learning Engineer
-- Rushikesh Ambhore — Backend Developer
-- Atharva Agey — UI/UX & Frontend Designer
+- Rushikesh Ambhore — UI/UX & Frontend Designer
+- Atharva Agey — Backend Developer
 - Pranav Dawange — Data Scientist
 
 ---
